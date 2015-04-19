@@ -1,5 +1,5 @@
 {
-    "name": "thecodingmachine/drupal",
+    "name": "tlherr/drupal",
     "description": "This package is an installer that will download Drupal from the http://drupal.org website and unpack it at the root of your Composer project.",
     "keywords": ["drupal", "thecodingmachine", "installer"],
     "homepage": "http://blog.thecodingmachine.com/content/installing-drupal-using-composer",
@@ -17,7 +17,7 @@
     	"mouf/archive-installer": "~1.0"
     },
     "extra": {
-        "url": "http://ftp.drupal.org/files/projects/drupal-7.18.zip",
+        "url": "http://ftp.drupal.org/files/projects/drupal-7.36.zip",
         "target-dir": ".",
         "omit-first-directory": "true"
     }
