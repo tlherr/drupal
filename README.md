@@ -22,7 +22,7 @@ Then create a *composer.json* file at the root of your project:
 ```json
 {
     "require": {
-        "thecodingmachine/drupal": "~7.18"
+        "tlherr/drupal": "~7.36"
     }
 }
 ```
